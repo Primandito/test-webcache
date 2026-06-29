@@ -1,1 +1,2 @@
-alert(1)
+alert("Web Cache Poisoning Success by Primandito! Origin: " + document.domain);
+
